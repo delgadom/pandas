@@ -4,7 +4,7 @@
 
 -----------------
 
-# pandas: powerful Python data analysis toolkit
+# pandas: powerful Python data analysis toolkit with some additional tests
 
 <table>
 <tr>
